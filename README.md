@@ -13,23 +13,23 @@
 
 ## 🚀 Featured Projects
 
-### 1. [Project Name 1](https://github.com/spoja-10/project1)
+### 1. [JetSpot AI](https://github.com/spoja-10/project1)
 ![Project1](https://img.shields.io/badge/Status-Live-success?style=flat-square)
 ![Tech](https://img.shields.io/badge/Tech-C%23%2C.NET%2CReact-informational?style=flat-square)
   
-Short description (1-2 lines) about what this project does and its key features.
+Coming soon
 
 ### 2. [Project Name 2](https://github.com/spoja-10/project2)
 ![Project2](https://img.shields.io/badge/Status-Development-yellow?style=flat-square)
 ![Tech](https://img.shields.io/badge/Tech-Python%2CJavaScript-blue?style=flat-square)
   
-Brief description of this project's purpose and technologies used.
+Coming soon
 
 ### 3. [Project Name 3](https://github.com/spoja-10/project3)
 ![Project3](https://img.shields.io/badge/Status-Maintained-blue?style=flat-square)
 ![Tech](https://img.shields.io/badge/Tech-HTML%2CCSS%2CJS-important?style=flat-square)
   
-Quick overview of what makes this project special.
+Coming soon
 
 [View All Projects →](https://github.com/spoja-10?tab=repositories)
 
@@ -52,8 +52,6 @@ Quick overview of what makes this project special.
 
 ## 🎯 Currently
 
-- 🔭 Working on: [Your Current C#/.NET Project]
-- 🌱 Learning: [Advanced JavaScript Concepts]
-- 👯 Looking to collaborate on: [Web Development Projects]
-- 💬 Ask me about: [C#, JavaScript, or Web Development]
-- ⚡ Fun fact: [I can solve a Rubik's cube in under 2 minutes!]
+- 🔭 Working on: [JetSpot AI]
+- 🌱 Learning: [Linear Programin :(]
+  
