@@ -65,3 +65,5 @@ Coming soon
 [![wakatime](https://wakatime.com/badge/user/ed7af627-b276-4f23-9f34-51f67396c7b0.svg)](https://wakatime.com/@spoja10)
 [![wakatime](https://wakatime.com/badge/user/ed7af627-b276-4f23-9f34-51f67396c7b0.svg)](https://wakatime.com/@ed7af627-b276-4f23-9f34-51f67396c7b0)
 
+.. image:: https://wakatime.com/share/@spoja10/1082f1c9-3afe-4380-b32e-40546ec1acb5.png
+    :target: https://wakatime.com/
