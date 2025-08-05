@@ -57,6 +57,11 @@ Coming soon
 
 ## ⏱ Weekly Development Breakdown
 
+[![WakaTime Stats](https://wakatime.com/share/@spoja10/bc3b7770-4f41-433c-93e5-419adfa90330.svg)](https://wakatime.com/@spoja10)
+
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=spoja10)](https://github.com/anuraghazra/github-readme-stats)
+
 [![wakatime](https://wakatime.com/badge/user/ed7af627-b276-4f23-9f34-51f67396c7b0.svg)](https://wakatime.com/@spoja10)
 [![wakatime](https://wakatime.com/badge/user/ed7af627-b276-4f23-9f34-51f67396c7b0.svg)](https://wakatime.com/@ed7af627-b276-4f23-9f34-51f67396c7b0)
 
