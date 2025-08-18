@@ -42,6 +42,10 @@
 </p>
 
 ---
+## ⏱ Coding Activity (WakaTime)
+
+[![WakaTime Language Stats](https://wakatime.com/share/@spoja10/27e00667-d4eb-4e92-84de-0a4b5fb3f793.png)](https://wakatime.com/)
+---
 
 ## 🎯 Currently
 
