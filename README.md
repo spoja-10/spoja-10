@@ -1,6 +1,5 @@
 # Hi, I'm Spoja 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38F7A7&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38F7A7&width=435&lines=Computer+Science+Student;Aspiring+Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
