@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://github.com/spoja-10/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spoja-10&repo=project1&theme=radical" />
+    <img src="https://github.com/KholdHart/jetspot-AI.git" />
   </a>
   <a href="https://github.com/spoja-10/project2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=spoja-10&repo=project2&theme=radical" />
