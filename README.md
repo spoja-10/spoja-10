@@ -19,10 +19,9 @@
 
 ## 🚀 Featured Projects
 
-
 <p align="center">
-  <a href="https://github.com/KholdHart/jetspot-AI.git">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spoja-10&repo=project1&theme=radical" />
+  <a href="https://github.com/KholdHart/jetspot-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KholdHart&repo=jetspot-AI&theme=radical" />
   </a>
   <a href="https://github.com/spoja-10/project2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=spoja-10&repo=project2&theme=radical" />
@@ -34,7 +33,6 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=spoja-10&repo=project3&theme=radical" />
   </a>
 </p>
-
 
 ---
 
