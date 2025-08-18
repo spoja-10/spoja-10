@@ -19,24 +19,29 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 [JetSpot AI](https://github.com/spoja-10/project1)
-![Status](https://img.shields.io/badge/Status-Live-success?style=flat)
-![Tech](https://img.shields.io/badge/Tech-C%23%2C.NET%2CReact-informational?style=flat)  
-_AI assistant platform — Live version coming soon._
+<p align="center">
+  <a href="https://github.com/spoja-10/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spoja-10&repo=project1&theme=radical" />
+  </a>
+  <a href="https://github.com/spoja-10/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spoja-10&repo=project2&theme=radical" />
+  </a>
+</p>
 
-### 🔹 [Project Name 2](https://github.com/spoja-10/project2)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat)
-![Tech](https://img.shields.io/badge/Tech-Python%2CJavaScript-blue?style=flat)  
-_Experimental project, stay tuned._
-
-### 🔹 [Project Name 3](https://github.com/spoja-10/project3)
-![Status](https://img.shields.io/badge/Status-Maintained-blue?style=flat)
-![Tech](https://img.shields.io/badge/Tech-HTML%2CCSS%2CJS-important?style=flat)  
-_Web utilities and mini apps._
-
-🔗 [**Browse all projects →**](https://github.com/spoja-10?tab=repositories)
+<p align="center">
+  <a href="https://github.com/spoja-10/project3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spoja-10&repo=project3&theme=radical" />
+  </a>
+</p>
 
 ---
+
+### 📝 Highlights
+
+- **JetSpot AI** – AI-powered assistant platform (C#, .NET, React) — _currently in development_
+- **Project 2** – Data pipelines + automation tools (Python, JavaScript) — _building core modules_
+- **Project 3** – Lightweight web utilities (HTML, CSS, JS) — _actively maintained_
+
 
 ## 🔥 Streak & Stats
 
