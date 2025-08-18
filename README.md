@@ -36,15 +36,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=spoja-10&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spoja-10&layout=compact&theme=radical&hide=roff,shell" />
-</div>
-
----
-
 ## 🔥 Streak Stats
 
 <p align="center">
