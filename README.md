@@ -58,6 +58,10 @@
 - 🌱 Learning: **Linear Programming** (and crying about it 😩)  
 
 ---
+<p align="center">
+  [![WakaTime](https://wakatime.com/badge/user/ed7af627-b276-4f23-9f34-51f67396c7b0.svg)](https://wakatime.com/@ed7af627-b276-4f23-9f34-51f67396c7b0)
+</p>
+
 
 ## 🤝 Connect
 
