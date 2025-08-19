@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/spoja-10/Crop-Prediction-App.git">
+  <a href="https://github.com/spoja-10/Crop-Prediction-App">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=spoja-10&repo=WebUtils&theme=radical" />
   </a>
 </p>
