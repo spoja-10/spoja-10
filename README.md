@@ -25,13 +25,11 @@
   <a href="https://github.com/spoja-10/CardApprovalML">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=spoja-10&repo=CardApprovalML&theme=radical" />
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/spoja-10/Crop-Prediction-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spoja-10&repo=WebUtils&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spoja-10&repo=Crop-Prediction-App&theme=radical" />
   </a>
 </p>
+
 
 ---
 
