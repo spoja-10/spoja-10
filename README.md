@@ -66,6 +66,6 @@
 
 ## 🤝 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=l)](https://www.linkedin.com/in/phenyo-morulane-b88104333)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/phenyo-morulane-b88104333)
 📧 [Email Me](mailto:morulanepv-email@gmail.com)
+
