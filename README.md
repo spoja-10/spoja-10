@@ -1,71 +1,86 @@
-# Hi, I'm Spoja 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38F7A7&width=500&lines=Computer+Science+Student;Aspiring+Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast)](https://git.io/typing-svg)
+# Phenyo Morulane
+
+Backend-focused developer building reliable, scalable systems.
+
+I enjoy turning messy real-world problems into clean, testable code. Currently focused on backend engineering, distributed systems fundamentals, and production-ready full stack apps.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Tech Stack
 
-**Languages & Tools**  
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+**Languages**  
+C# • JavaScript • Python • SQL
+
+**Backend**  
+.NET • Node.js • Express • REST APIs • MVC
+
+**Frontend**  
+React • HTML • CSS
+
+**Databases & Tools**  
+MongoDB • SQL Server • Redis • Docker • Git
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 What I'm Focused On
+
+- Building production-ready backend services  
+- Writing clean, maintainable APIs  
+- Improving data structures & algorithms  
+- Learning system design fundamentals  
+- Contributing to open source
+
+---
+
+## 🔥 Featured Projects
+
+### JetSpot AI  
+AI-powered assistant built with .NET and React.  
+- Modular backend architecture  
+- API-driven design  
+- React frontend integration  
+
+👉 https://github.com/KholdHart/jetspot-AI
+
+---
+
+### Card Approval ML  
+Machine learning pipeline for credit approval prediction.  
+- Data preprocessing pipeline  
+- Model training & evaluation  
+- Python-based workflow  
+
+👉 https://github.com/spoja-10/CardApprovalML
+
+---
+
+### Crop Prediction App  
+End-to-end ML app for agricultural prediction.  
+- Predictive modeling  
+- Interactive interface  
+- Real-world dataset usage  
+
+👉 https://github.com/spoja-10/Crop-Prediction-App
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/KholdHart/jetspot-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KholdHart&repo=jetspot-AI&theme=radical" />
-  </a>
-  <a href="https://github.com/spoja-10/CardApprovalML">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spoja-10&repo=CardApprovalML&theme=radical" />
-  </a>
-  <a href="https://github.com/spoja-10/Crop-Prediction-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=spoja-10&repo=Crop-Prediction-App&theme=radical" />
-  </a>
-</p>
-
-
----
-
-## 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=spoja-10&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-## ⏱ Coding Activity (WakaTime)
-
-<p align="center">
-  <a href="https://wakatime.com/">
-    <img src="https://wakatime.com/share/@spoja10/27e00667-d4eb-4e92-84de-0a4b5fb3f793.png" alt="WakaTime Language Stats" />
-  </a>
+  <img src="https://streak-stats.demolab.com/?user=spoja-10" />
 </p>
 
 ---
 
 ## 🎯 Currently
 
-- 🔭 Building: **JetSpot AI** (AI-powered assistant in .NET + React)  
-- 🌱 Learning: **Linear Programming** (and crying about it 😩)  
+- Building: **JetSpot AI**  
+- Learning: Linear Programming  
+- Goal: Backend internship / junior backend role
 
 ---
-<p align="center">
-  <a href="https://wakatime.com/@ed7af627-b276-4f23-9f34-51f67396c7b0">
-    <img src="https://wakatime.com/badge/user/ed7af627-b276-4f23-9f34-51f67396c7b0.svg" 
-         alt="Total time coded since Mar 27 2025" />
-  </a>
-</p>
-
 
 ## 🤝 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/phenyo-morulane-b88104333)
-📧 [Email Me](mailto:morulanepv-email@gmail.com)
-
+- LinkedIn: https://www.linkedin.com/in/phenyo-morulane-b88104333  
+- Email: morulanepv-email@gmail.com
