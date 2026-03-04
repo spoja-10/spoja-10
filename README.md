@@ -98,10 +98,12 @@ Automated daily sales aggregation pipeline using SQL Server stored procedures an
 
 ## 🎯 Focus
 
-- Production-ready backend systems  
-- Clean API design  
-- System design fundamentals  
-- Open source contributions  
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Systems-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API%20Design-FF6C37?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Design-6DB33F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
