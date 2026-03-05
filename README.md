@@ -1,6 +1,6 @@
 <h1 align="center">Phenyo Morulane</h1>
 <p align="center">
-  Backend Developer • .NET • Node.js • React
+  Software Developer
 </p>
 
 <p align="center">
@@ -16,6 +16,7 @@
 **Backend**  
 <br/>
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat" />
@@ -28,14 +29,13 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
 
 
-
-**Languages & Data**  
+**Languages**  
 <br/>
 <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white" />
-
 
 
 **Tools**  
