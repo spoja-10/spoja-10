@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
 
 
 **Databases**  
