@@ -9,7 +9,7 @@
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <p align="center">
 
@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/-00599C?style=flat&logo=c&logoColor=white" />
 
 
 **Databases**  
@@ -53,9 +53,9 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🧠 Task Manager API  
+### Task Manager API  
 Production-ready project and task management backend with authentication, RBAC, and Redis caching.
 
 **Tech:** Node.js • Express • MongoDB • Redis • JWT • Docker  
@@ -66,11 +66,11 @@ Production-ready project and task management backend with authentication, RBAC, 
 - Redis caching for high-traffic endpoints  
 - Rate limiting, validation, and centralized error handling  
 
-👉 https://github.com/spoja-10/task-manager-api
+https://github.com/spoja-10/task-manager-api
 
 ---
 
-### 🔗 Snip — URL Shortener  
+### Snip — URL Shortener  
 Production-ready full-stack URL shortener with caching, analytics, and Docker support.
 
 **Tech:** Node.js • Express • MongoDB • Redis • React • Docker  
@@ -81,11 +81,11 @@ Production-ready full-stack URL shortener with caching, analytics, and Docker su
 - Rate limiting & duplicate detection  
 - Clean MVC architecture  
 
-👉 https://github.com/spoja-10/url-shortener
+https://github.com/spoja-10/url-shortener
 
 ---
 
-### 🗄️ Sales Pipeline — Stored Procedures & Automation  
+### Sales Pipeline — Stored Procedures & Automation  
 Automated daily sales aggregation pipeline using SQL Server stored procedures and Python scheduler.
 
 **Tech:** SQL Server (T-SQL) • Python • SQL Server Agent  
@@ -96,11 +96,11 @@ Automated daily sales aggregation pipeline using SQL Server stored procedures an
 - Automated 02:00 AM job scheduling  
 - Modular stored procedure design  
 
-👉 https://github.com/spoja-10/stored-procedure---automation
+https://github.com/spoja-10/stored-procedure---automation
 
 ---
 
-## 🎯 Focus
+## Focus
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend%20Systems-0A66C2?style=for-the-badge" />
